@@ -1,1 +1,25 @@
-<!doctype html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flappy-Birds Game</title>
+    <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+    <div id="game">
+        <div id="block" style="animation: 2s linear 0s infinite normal none running blockAnimation;"></div>
+        <div id="hole" style="animation: 2s linear 0s infinite normal none running blockAnimation; top: -527px;"></div>
+        <div id="character" class></div> ==$0
+        <div id="score">Score 0</div>
+        <div id="gameoverscreen" style="display: none;">
+            <h1 class="title">Game Over</h1>
+            <h3 class="score">Score 0</h3>
+            <button>play again?</button>
+            <div class="backdrop"></div>
+            </div>
+        <div id="star" style="display:none"></div>
+    </div> 
+    <script src="app.js" type="module"></script>
+</body>
+</html>
