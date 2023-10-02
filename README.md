@@ -11,3 +11,5 @@ This project uses the following technologies:
 - vanila javascript
 
 IDE: visual Studio code 
+
+#Game list 
