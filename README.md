@@ -8,6 +8,6 @@ This project uses the following technologies:
 - HTML
 - CSS
 - JavaScript
-- vanilla javascript
+- vanila javascript
 
 IDE: visual Studio code 
