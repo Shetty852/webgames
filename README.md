@@ -1,2 +1,2 @@
 # Games
- Skills: Html,Css,javascript <br>Ide:vs code 
+ This web application is built using Node.js, HTML, CSS, and JavaScript. 
