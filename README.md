@@ -12,4 +12,4 @@ This project uses the following technologies:
 
 IDE: visual Studio code 
 
-## games
+## Games list
