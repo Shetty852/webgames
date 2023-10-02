@@ -1,5 +1,5 @@
 # Games
- This web Games is built using HTML, CSS, and JavaScript(vanila javascript). 
+ This web Games is built using HTML, CSS, and Javascript. 
 
 ## Technologies Used
 
