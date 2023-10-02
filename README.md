@@ -1,3 +1,2 @@
 # Games
- Skills: Html,Css,javascript 
- Ide:vs code 
+ Skills: Html,Css,javascript <br>Ide:vs code 
