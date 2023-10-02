@@ -8,9 +8,9 @@ This project uses the following technologies:
 - HTML
 - CSS
 - JavaScript
-- Vanila Javascript
+- Vanila JavaScript
 
-IDE: visual Studio code 
+IDE: Visual Studio Code 
 
 ## Games List
  Games name as follows:
