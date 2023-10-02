@@ -13,3 +13,4 @@ This project uses the following technologies:
 IDE: visual Studio code 
 
 ## Games list
+ Games name as follows:
