@@ -1,2 +1,2 @@
 # Games
- This web application is built using Node.js, HTML, CSS, and JavaScript. 
+ This web Games is built using HTML, CSS, and JavaScript(vanila javascript). 
