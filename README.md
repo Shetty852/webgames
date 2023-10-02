@@ -12,7 +12,7 @@ This project uses the following technologies:
 
 IDE: visual Studio code 
 
-## Games list
+## Games List
  Games name as follows:
 
-### 1.Rock Paper Scissors 
+### 1.Rock👊 Paper🖐️ Scissors✌️
